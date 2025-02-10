@@ -1,0 +1,6 @@
+@MyWatch_HostAddress = http://localhost:5183
+
+GET {{MyWatch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
